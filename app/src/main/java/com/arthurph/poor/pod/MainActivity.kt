@@ -1,6 +1,5 @@
 package com.arthurph.poor.pod
 
-import android.media.Image
 import android.net.wifi.WifiManager
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -11,9 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val wifiManager = applicationContext.getSystemService<WifiManager>()
-        if(wifiManager == null) {
-
-        }
-
+        if (wifiManager == null) {}
     }
 }

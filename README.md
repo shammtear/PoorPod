@@ -3,8 +3,6 @@ Poor's Pod is a launcher and a music player for Android
 
 # Requirements
 - Android Pie(9) or higher
-- AOSP GSI (optional)
-- Device with Project Treble (optional)
 
 # Permissions
  - READ_PHONE_STATE
