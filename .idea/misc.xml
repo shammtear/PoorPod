@@ -3,15 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PoorPod/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1885" />
+        <entry key="..\:/PoorPod/app/src/main/res/drawable/back_player_button.xml" value="0.1" />
+        <entry key="..\:/PoorPod/app/src/main/res/drawable/battery_icon.xml" value="0.1" />
         <entry key="..\:/PoorPod/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/PoorPod/app/src/main/res/drawable/wifi_icon.xml" value="0.14" />
+        <entry key="..\:/PoorPod/app/src/main/res/drawable/wifi_off.xml" value="0.1" />
+        <entry key="..\:/PoorPod/app/src/main/res/font/poppinsblack.xml" value="0.1" />
+        <entry key="..\:/PoorPod/app/src/main/res/layout-normal/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/PoorPod/app/src/main/res/layout-normal/main_activity.xml" value="0.33" />
+        <entry key="..\:/PoorPod/app/src/main/res/layout-small/activity.xml" value="0.1" />
+        <entry key="..\:/PoorPod/app/src/main/res/layout-small/activity_main.xml" value="1.0" />
         <entry key="..\:/PoorPod/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/PoorPod/app/src/main/res/layout/main_activity.xml" value="0.22" />
         <entry key="..\:/PoorPod/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/PoorPod/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectResources">
+    <resource url="http://schemas.android.com/apk/res/android" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

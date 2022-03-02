@@ -16,3 +16,7 @@ Poor's Pod is a launcher and a music player for Android
  - MODIFY_AUDIO_SETTINGS
 
  Also, you can read the Android Manifest too :)
+
+# Screenshots
+
+### Soon
